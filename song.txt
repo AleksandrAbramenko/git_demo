@@ -7,3 +7,6 @@ and one more (both added from web interface)
 New data here
 And here
 ---------------------
+
+Added new line in a new feature branch
+And other one
