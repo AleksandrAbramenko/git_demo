@@ -10,3 +10,9 @@ And here
 
 Added new line in a new feature branch
 And other one
+
+
+-----------
+Bla bla bla
+Bla bla bla
+For another commit
